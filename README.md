@@ -1,4 +1,4 @@
-# Oii, eu sou o Victor Hugo e vamos aos trabalhos !:laughing::fire:
+# Oii, eu sou o Victor Hugo e vamos aos trabalhos !:computer::laughing::fire:
 
 
 - 🔭 I’m currently working on ...
