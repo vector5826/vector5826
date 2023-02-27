@@ -1,4 +1,4 @@
-# Oii, eu sou o Victor Hugo e vamos aos trabalhos !:computer::laughing::fire:
+## Oii, eu sou o Victor Hugo e vamos aos trabalhos !:computer::laughing::fire:
 
 
 - 🔭 I’m currently working on ...
@@ -10,3 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://www.linkedin.com/in/victor-hugo-260a5116b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<\div>
