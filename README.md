@@ -1,9 +1,5 @@
-### Hi there 👋
+Oii, Sou Victor Hugo e vamos aos trabalhos !:laughing::fire:
 
-<!--
-**vector5826/vector5826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
