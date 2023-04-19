@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente busco vagas de estágio ou jr
-- 🌱 estudando e me aperfeiçoando
+- 🌱 estudando HTML5 E CSS3
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vector5826&show_icons=true&theme=dracula)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vector5826&layout=compact&theme=dracula)
