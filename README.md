@@ -1,4 +1,4 @@
-## Oii, eu sou o Victor Hugo e vamos aos trabalhos !:computer::laughing::fire:
+## Oii, eu sou o Victor Hugo!:computer::laughing::fire:
 
 
 - 🔭 Atualmente busco vagas de estágio ou jr
