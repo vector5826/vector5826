@@ -1,7 +1,7 @@
-## Oii, eu sou o Victor Hugo!:computer::laughing::fire:
+## Oii, eu sou o Victor Hugo!:computer:
 
 
-- 🔭 Atualmente busco vagas de estágio ou jr
+- 🔭 Atualmente busco vagas de estágio ou jr como Desenvolvedor Frontend
 - 🌱 estudando HTML5 E CSS3
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vector5826&show_icons=true&theme=dracula)
