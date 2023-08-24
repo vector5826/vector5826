@@ -1,5 +1,4 @@
-## Oii, eu sou o Victor Hugo!:computer:
-
+## Olá, eu sou o Victor Hugo!:computer:
 
 - 🔭 Atualmente busco vagas de estágio ou jr como Desenvolvedor Frontend
 - 🌱 estudando HTML5 E CSS3
