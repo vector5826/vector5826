@@ -1,6 +1,6 @@
 ## Olá, eu sou o Victor Hugo! 
 
-- 🔭 Atualmente busco vagas de estágio ou jr como Desenvolvedor Frontend
+- 🔭 Atualmente busco vagas de estágio ou jr como Desenvolvedor 
 - 🌱 estudando HTML5 E CSS3
 - 🛠️ HTML 5, CSS3, Git/GitHub
  
