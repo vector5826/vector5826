@@ -10,5 +10,6 @@
 
   ##
   <a href="https://www.linkedin.com/in/victor-hugo-260a5116b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <i class="devicon-javascript-plain colored"></i>
+
 
